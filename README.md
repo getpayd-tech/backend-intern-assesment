@@ -73,8 +73,8 @@ You will implement three main services:
 
 ### Submission
 - Push your completed project to your GitHub repository.
-- Create a pull request to the original repository.
-- Ensure that your pull request includes:
+- Submit your GitHub repo link to `talent@paydhq.com` including your Name and Email Address, using 'Backend Intern Submission' as the ref
+- Ensure that your submission includes:
   - A brief description of your approach.
   - Any additional features or improvements you have implemented.
   - Screenshots or a demo video of your working application.
